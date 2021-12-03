@@ -64,4 +64,4 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
   
   ## **Questions**
   
-  If you have any questions about the rep, open an issue or contact me directly at [ajrego13@gmail.com](mailto:ajrego13@gmail.com). You can find more of my work at [GitHub](https://github.com/OneFJef).
+  If you have any questions about the rep, open an issue or contact me directly at [ajrego13@gmail.com](mailto:ajrego13@gmail.com). You can find more of my work at [GitHub](https://github.com/ajrego13).
